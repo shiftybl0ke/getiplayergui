@@ -48,8 +48,8 @@ The GUI expects this path by default on Windows.
 **2. Clone this repo**
 
 ```bash
-git clone https://github.com/shiftybl0ke/iplayer-gui.git
-cd iplayer-gui
+git clone https://github.com/shiftybl0ke/getiplayergui.git
+cd getiplayergui
 ```
 
 **3. Run the app**
