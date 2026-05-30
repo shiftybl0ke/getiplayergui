@@ -48,7 +48,7 @@ The GUI expects this path by default on Windows.
 **2. Clone this repo**
 
 ```bash
-git clone https://github.com/yourusername/iplayer-gui.git
+git clone https://github.com/shiftybl0ke/iplayer-gui.git
 cd iplayer-gui
 ```
 
